@@ -1,0 +1,1722 @@
+{
+  "user": [],
+  "demo": [],
+  "songs": [
+    {
+      "name": "Up To Me",
+      "artist": "Jethro Tull",
+      "rating": "-1",
+      "id": "4eswKSdbIeYn0gMwZDuvRM"
+    },
+    {
+      "name": "Cross Eyed Mary",
+      "artist": "Jethro Tull",
+      "rating": "-1",
+      "id": "6MBZyLisOWTChcevgFqwVr"
+    },
+    {
+      "name": "Cheap Day Return",
+      "artist": "Jethro Tull",
+      "rating": "-1",
+      "id": "46ITAa2MkDCQQQbVJv1cTN"
+    },
+    {
+      "name": "Mother Goose",
+      "artist": "Jethro Tull",
+      "rating": "-1",
+      "id": "5RsfvV4oSchEPH6t93C1lR"
+    },
+    {
+      "name": "Wond'Ring Aloud",
+      "artist": "Jethro Tull",
+      "rating": "-1",
+      "id": "7bo2X63U1NpKYMXV1mZFkq"
+    },
+    {
+      "name": "Hymn 43",
+      "artist": "Jethro Tull",
+      "rating": "-1",
+      "id": "2it4DH8fqcCkSTCmqY5gzk"
+    },
+    {
+      "name": "Slipstream",
+      "artist": "Jethro Tull",
+      "rating": "-1",
+      "id": "1QhqX9moYeL8V4ZnOXirEH"
+    },
+    {
+      "name": "My God",
+      "artist": "Jethro Tull",
+      "rating": "-1",
+      "id": "1pkoB8ZiZymyyIvaZmKElJ"
+    },
+    {
+      "name": "Wind Up - Quad Version",
+      "artist": "Jethro Tull",
+      "rating": "-1",
+      "id": "2zQlfgqYJvPkISWFQwWWHs"
+    },
+    {
+      "name": "Ian Anderson Interview",
+      "artist": "Jethro Tull",
+      "rating": "-1",
+      "id": "1YRW7IE2T1W8vhbtaQjRXC"
+    },
+    {
+      "name": "December African Rain",
+      "artist": "Johnny Clegg",
+      "rating": "-1",
+      "id": "5YVFhUCQse2lLzEJoGkX1F"
+    },
+    {
+      "name": "African Sky Blue",
+      "artist": "Johnny Clegg",
+      "rating": "-1",
+      "id": "3giDTAzlAm4lZiPpLxEn9W"
+    },
+    {
+      "name": "Lick Your Fingers Clean",
+      "artist": "Jethro Tull",
+      "rating": "-1",
+      "id": "2uDINz5D5dJpb6iQnd0IYM"
+    },
+    {
+      "name": "500 Years O' Blues",
+      "artist": "DiggingRoots",
+      "rating": "-1",
+      "id": "6XzwksHMt2wZCpmPgCgiR2"
+    },
+    {
+      "name": "Memego",
+      "artist": "DiggingRoots",
+      "rating": "-1",
+      "id": "2yEjKw1iKgWe1ChOjIoWB0"
+    },
+    {
+      "name": "Brighter",
+      "artist": "DiggingRoots",
+      "rating": "-1",
+      "id": "1VwXDQPCwghSOlm5BwWTVA"
+    },
+    {
+      "name": "Scars To Your Beautiful",
+      "artist": "Alessia Cara",
+      "rating": "-1",
+      "id": "0prNGof3XqfTvNDxHonvdK"
+    },
+    {
+      "name": "Bad Things - With Camila Cabello",
+      "artist": "Machine Gun Kelly",
+      "rating": "-1",
+      "id": "56cswAa9WdFBsjsTyPBAKA"
+    },
+    {
+      "name": "Love Me Now",
+      "artist": "John Legend",
+      "rating": "-1",
+      "id": "6hdkw1wzhIRYPlYDUtCY5m"
+    },
+    {
+      "name": "Party Monster",
+      "artist": "The Weeknd",
+      "rating": "-1",
+      "id": "4F7A0DXBrmUAkp32uenhZt"
+    },
+    {
+      "name": "Side To Side",
+      "artist": "Ariana Grande",
+      "rating": "-1",
+      "id": "1pKeFVVUOPjFsOABub0OaV"
+    },
+    {
+      "name": "Sunset Lover",
+      "artist": "Petit Biscuit",
+      "rating": "-1",
+      "id": "0hNduWmlWmEmuwEFcYvRu1"
+    },
+    {
+      "name": "All Night",
+      "artist": "The Vamps",
+      "rating": "-1",
+      "id": "31t0ATifZW5CW3XP2QUsUW"
+    },
+    {
+      "name": "Never Know",
+      "artist": "6LACK",
+      "rating": "-1",
+      "id": "5rU5F2RRAjypdeFRMi8l4E"
+    },
+    {
+      "name": "Bad and Boujee",
+      "artist": "Migos",
+      "rating": "-1",
+      "id": "1FvU97lrWOG2NRxErh6OZz"
+    },
+    {
+      "name": "Swang",
+      "artist": "Rae Sremmurd",
+      "rating": "-1",
+      "id": "6mapJIPnQ23RTAevUoE0DL"
+    },
+    {
+      "name": "Still",
+      "artist": "G-Eazy",
+      "rating": "-1",
+      "id": "3lOlIkAsGdUIJN5e6P4ffq"
+    },
+    {
+      "name": "Liar",
+      "artist": "Chinese Man",
+      "rating": "-1",
+      "id": "3LeGKVXfyzqWjMChNaadC4"
+    },
+    {
+      "name": "No Heart",
+      "artist": "21 Savage",
+      "rating": "-1",
+      "id": "4gmmRb6bZJffOOiww1JGTO"
+    },
+    {
+      "name": "Just Wanna",
+      "artist": "Tate Tucker",
+      "rating": "-1",
+      "id": "13Op7Y3doFwhblL4hVBeZf"
+    },
+    {
+      "name": "Still Here",
+      "artist": "Drake",
+      "rating": "-1",
+      "id": "433P7tDcIAi6NLnf4Sh6tI"
+    },
+    {
+      "name": "Overdrive",
+      "artist": "Kid Ink",
+      "rating": "-1",
+      "id": "4RuhH1a5G0h7CDMPkAQj2T"
+    },
+    {
+      "name": "I Be On",
+      "artist": "YG",
+      "rating": "-1",
+      "id": "3mNyhvYD3aYqIAFdJ75y9q"
+    },
+    {
+      "name": "Whateva Will Be",
+      "artist": "A Tribe Called Quest",
+      "rating": "-1",
+      "id": "3z40poMPmOkS6799tbXGKz"
+    },
+    {
+      "name": "Drug Dealer (feat. Ariana DeBoo)",
+      "artist": "Macklemore",
+      "rating": "-1",
+      "id": "2zM1k4PnL573ayLHqpQaQN"
+    },
+    {
+      "name": "The Other Side",
+      "artist": "VACAY",
+      "rating": "-1",
+      "id": "0TTHKk1N8wpAgh1lrMTlH9"
+    },
+    {
+      "name": "Told A Lie To My Heart",
+      "artist": "Harrow Fair",
+      "rating": "-1",
+      "id": "1A8wYMKk3W7AICG7YqiaPi"
+    },
+    {
+      "name": "Light",
+      "artist": "Jon Bryant",
+      "rating": "-1",
+      "id": "3GlaD2aJnTzUZAWLAfHFUO"
+    },
+    {
+      "name": "Running Out After You",
+      "artist": "Tom Speight",
+      "rating": "-1",
+      "id": "1sRVnoJA0bsfbiDCGfubNG"
+    },
+    {
+      "name": "Settle Down",
+      "artist": "Dark Mean",
+      "rating": "-1",
+      "id": "0uV3eC7OJXe5uV8IR3BxOp"
+    },
+    {
+      "name": "River",
+      "artist": "Leon Bridges",
+      "rating": "-1",
+      "id": "0NeJjNlprGfZpeX2LQuN6c"
+    },
+    {
+      "name": "There is No Me Without You",
+      "artist": "Perrin Lamb",
+      "rating": "-1",
+      "id": "3kg44UDqy7QyTyxAm35766"
+    },
+    {
+      "name": "Tomorrow",
+      "artist": "Shakey Graves",
+      "rating": "-1",
+      "id": "47KDDZgFiX1w6RFOuLXsSn"
+    },
+    {
+      "name": "Buy Back the Block",
+      "artist": "Rick Ross",
+      "rating": "-1",
+      "id": "1Ebp8tgreavAhAt76zxBST"
+    },
+    {
+      "name": "Haunted Man",
+      "artist": "Victoria Lord",
+      "rating": "-1",
+      "id": "3BYhH0C6WpjhD2fsfjPXgA"
+    },
+    {
+      "name": "Without A Word",
+      "artist": "Sara Watkins",
+      "rating": "-1",
+      "id": "6NTIKfyWCP3Nm2zWB16o88"
+    },
+    {
+      "name": "The Beat Down",
+      "artist": "Rod Ladgrove",
+      "rating": "-1",
+      "id": "48F90rPIMrh2GFxkOG1qHE"
+    },
+    {
+      "name": "Rusty",
+      "artist": "Hein Cooper",
+      "rating": "-1",
+      "id": "2rwPOgMZHP8mFAYneg8bvh"
+    },
+    {
+      "name": "A World Between Us",
+      "artist": "Royal Wood",
+      "rating": "-1",
+      "id": "5Wgd2miVvqOovU50ro7lr5"
+    },
+    {
+      "name": "Holdin’ Out",
+      "artist": "The Lumineers",
+      "rating": "-1",
+      "id": "5dNlBvwZWGPtzk21ZTLVx1"
+    },
+    {
+      "name": "The Original",
+      "artist": "Roo Panes",
+      "rating": "-1",
+      "id": "3QOM7UY7jnHqutxr1ptZzJ"
+    },
+    {
+      "name": "Colorado",
+      "artist": "St-Eugene",
+      "rating": "-1",
+      "id": "6wUoLHrDtajTQMtUrKMI7V"
+    },
+    {
+      "name": "Leonard Cohen",
+      "artist": "Bobby Bazini",
+      "rating": "-1",
+      "id": "71iChCnXVnFcqlWYLUx2ih"
+    },
+    {
+      "name": "West Coast (Under The Covers)",
+      "artist": "Max Jury",
+      "rating": "-1",
+      "id": "2YZRyPutmczYKDFEzWdQ5q"
+    },
+    {
+      "name": "Wolves of the Revolution",
+      "artist": "The Arcadian Wild",
+      "rating": "-1",
+      "id": "0c71y7VB5N8I9jNVln72w3"
+    },
+    {
+      "name": "Around the Bend",
+      "artist": "Martha Wainwright",
+      "rating": "-1",
+      "id": "2G5vB7txgJDQtByB3KOPSz"
+    },
+    {
+      "name": "I Know the Feeling",
+      "artist": "The Franklin Electric",
+      "rating": "-1",
+      "id": "3lcszNZeTfKEjbDykqBzsL"
+    },
+    {
+      "name": "The Glow",
+      "artist": "Matt Pond PA",
+      "rating": "-1",
+      "id": "1fgy1YoUPqk0GSy5Yi56cN"
+    },
+    {
+      "name": "I Don't Know My Name",
+      "artist": "Grace VanderWaal",
+      "rating": "-1",
+      "id": "4G9addS7Yq5ihZBQLXG2Mj"
+    },
+    {
+      "name": "Pick up Our Boots",
+      "artist": "100 mile house",
+      "rating": "-1",
+      "id": "4Smq0MN0zQWg2fjUE54evF"
+    },
+    {
+      "name": "Plans of My Own",
+      "artist": "Gordon Lightfoot",
+      "rating": "-1",
+      "id": "172d4I8R7ZaopVS4cVRyWX"
+    },
+    {
+      "name": "Sick of Losing Soulmates",
+      "artist": "dodie",
+      "rating": "-1",
+      "id": "7a9udNo0GU97xnMAkjLdmE"
+    },
+    {
+      "name": "Human - Acoustic",
+      "artist": "Rag'n'Bone Man",
+      "rating": "-1",
+      "id": "0As3I4SLPq8tF4GYhmvAnS"
+    },
+    {
+      "name": "Starving",
+      "artist": "Hailee Steinfeld",
+      "rating": "-1",
+      "id": "4Ce37cRWvM1vIGGynKcs22"
+    },
+    {
+      "name": "Taped Up Heart (feat. Clara Mae)",
+      "artist": "KREAM",
+      "rating": "-1",
+      "id": "26hcyzSE154xMZCbFdtInA"
+    },
+    {
+      "name": "Mercy",
+      "artist": "Shawn Mendes",
+      "rating": "-1",
+      "id": "7evPpWWu01Klxi0KlPxR17"
+    },
+    {
+      "name": "Fresh Eyes",
+      "artist": "Andy Grammer",
+      "rating": "-1",
+      "id": "4nMlau89VAjmV7agkl7OY3"
+    },
+    {
+      "name": "Oh Lord",
+      "artist": "MiC LOWRY",
+      "rating": "-1",
+      "id": "1XUiFMK48Yy4fgds8l9aLH"
+    },
+    {
+      "name": "For the Dough",
+      "artist": "Teshalé",
+      "rating": "-1",
+      "id": "2uqPQ3UwyBbDupyWU5PFRV"
+    },
+    {
+      "name": "Patient",
+      "artist": "Post Malone",
+      "rating": "-1",
+      "id": "6lIaeZShnkQC97CukBGmee"
+    },
+    {
+      "name": "Lights Out",
+      "artist": "Kid Ink",
+      "rating": "-1",
+      "id": "6r4i4jy2DLbNO9QRioJVnP"
+    },
+    {
+      "name": "Nights Like This",
+      "artist": "Kavale",
+      "rating": "-1",
+      "id": "2FHRtgQd5TjfxtglPGj1P1"
+    },
+    {
+      "name": "Journey's Island (Emalonjeni)",
+      "artist": "Johnny Clegg",
+      "rating": "-1",
+      "id": "1MYTdxAbffxB5ELWDW3Sb9"
+    },
+    {
+      "name": "Africa (What Made You So Strong)",
+      "artist": "Johnny Clegg",
+      "rating": "-1",
+      "id": "54Og6paO540LcUe2HVwvee"
+    },
+    {
+      "name": "The Crossing (Osiyeza)",
+      "artist": "Johnny Clegg",
+      "rating": "-1",
+      "id": "7qxeOymABID9pysYH0IKXz"
+    },
+    {
+      "name": "Woza Friday",
+      "artist": "Johnny Clegg",
+      "rating": "-1",
+      "id": "65uhzzjlzXPrqvrXI0e6A2"
+    },
+    {
+      "name": "Impi",
+      "artist": "Johnny Clegg",
+      "rating": "-1",
+      "id": "4e57yKFA1nFjb4cz2fJZ6b"
+    },
+    {
+      "name": "I Call Your Name",
+      "artist": "Johnny Clegg",
+      "rating": "-1",
+      "id": "5RG8iGJ6K5Ge57hBMBeSDp"
+    },
+    {
+      "name": "Into the Picture",
+      "artist": "Johnny Clegg",
+      "rating": "-1",
+      "id": "6gbS4ZSi40s3Vb4OWX3DLw"
+    },
+    {
+      "name": "Cruel Crazy Beautiful World",
+      "artist": "Johnny Clegg",
+      "rating": "-1",
+      "id": "0pb347bbEq3sOrdDi42pM9"
+    },
+    {
+      "name": "Asimbonanga",
+      "artist": "Johnny Clegg",
+      "rating": "-1",
+      "id": "2zs9noBmNhyiWIgXkMyElr"
+    },
+    {
+      "name": "Let Me Be",
+      "artist": "DiggingRoots",
+      "rating": "-1",
+      "id": "0x0shdoM1oBEdVOQWBzMsc"
+    },
+    {
+      "name": "Dance Hall Blues",
+      "artist": "DiggingRoots",
+      "rating": "-1",
+      "id": "2ExP3GBnLWFyrMjjf0IlUC"
+    },
+    {
+      "name": "Scatterlings of Africa",
+      "artist": "Johnny Clegg",
+      "rating": "-1",
+      "id": "3Gs4PNXMqvYcxads8JX3Zq"
+    },
+    {
+      "name": "Wells",
+      "artist": "Joshua Hyslop",
+      "rating": "-1",
+      "id": "5PInaMH5ykxebbSokaIaF6"
+    },
+    {
+      "name": "Strangers",
+      "artist": "Brad Fillatre",
+      "rating": "-1",
+      "id": "2gPedgl5F7L4ohXYEmrdbL"
+    },
+    {
+      "name": "Crooked Smile",
+      "artist": "The Weepies",
+      "rating": "-1",
+      "id": "6S0YvRzZ2NLPR8nJ8uvfav"
+    },
+    {
+      "name": "People Change Their Minds",
+      "artist": "William Fitzsimmons",
+      "rating": "-1",
+      "id": "4dKt6aGKrMcZC1yWVvuhu6"
+    },
+    {
+      "name": "Top to Toe",
+      "artist": "Fenne Lily",
+      "rating": "-1",
+      "id": "1I6hI9D2b1UXZUGoP8ixM0"
+    },
+    {
+      "name": "Saving Us a Riot",
+      "artist": "Phoria",
+      "rating": "-1",
+      "id": "2n1mukIntnIGBzhf8Ifkr2"
+    },
+    {
+      "name": "Why Does It Feel so Lonely (When You Are Around)?",
+      "artist": "Lisa LeBlanc",
+      "rating": "-1",
+      "id": "3UH0zvGGrN9oN7na7H8FQb"
+    },
+    {
+      "name": "Alpha Adept",
+      "artist": "John K. Samson",
+      "rating": "-1",
+      "id": "3GAoGRa1CilOHMQWb239Bm"
+    },
+    {
+      "name": "Sweet Step",
+      "artist": "Julia Jacklin",
+      "rating": "-1",
+      "id": "4WlEJ8yQ6adjSAnLyG7jZS"
+    },
+    {
+      "name": "Let Me In",
+      "artist": "Glen Hansard",
+      "rating": "-1",
+      "id": "4jjLWUyXPR2mVfaivkIkfZ"
+    },
+    {
+      "name": "My Mind Is An Endless Sea",
+      "artist": "The Wind and The Wave",
+      "rating": "-1",
+      "id": "75sdwznAxqnywMbWxNajt6"
+    },
+    {
+      "name": "Way Down We Go - Recorded at Spotify Studios NYC",
+      "artist": "Kaleo",
+      "rating": "-1",
+      "id": "3inSmIa388icRdpDi5ecJd"
+    },
+    {
+      "name": "So Hard to See",
+      "artist": "Blue Rodeo",
+      "rating": "-1",
+      "id": "5VCElJMK8CbnxELSiydyiW"
+    },
+    {
+      "name": "Elegy",
+      "artist": "Leif Vollebekk",
+      "rating": "-1",
+      "id": "0GRIuIBGj9lg5EbyQPjzT9"
+    },
+    {
+      "name": "Anytime",
+      "artist": "Adam Baldwin",
+      "rating": "-1",
+      "id": "699ZvQ6GZ3yXSB3hPMWJ90"
+    },
+    {
+      "name": "White Feather Roses",
+      "artist": "Eons",
+      "rating": "-1",
+      "id": "1r9ygarrkO3t8SxYOTxW8k"
+    },
+    {
+      "name": "New Behaviour",
+      "artist": "Anna Wiebe",
+      "rating": "-1",
+      "id": "45npqmIjygzYN6LEA5ua2K"
+    },
+    {
+      "name": "Show Me",
+      "artist": "Neil Young",
+      "rating": "-1",
+      "id": "1o2L8qLFOACB0jSnH5R4SV"
+    },
+    {
+      "name": "Riverview Fog",
+      "artist": "The Sadies",
+      "rating": "-1",
+      "id": "1Mev7Sz5QsZqSlnW4UZnQO"
+    },
+    {
+      "name": "Hallelujah",
+      "artist": "Theory of a Deadman",
+      "rating": "-1",
+      "id": "0k4PvVrtKyfCrye1ZBPU2P"
+    },
+    {
+      "name": "Call On Me - Ryan Riback Remix",
+      "artist": "Starley",
+      "rating": "-1",
+      "id": "2L6orAlH8tBhiFTumIfMyF"
+    },
+    {
+      "name": "Don't Wanna Know",
+      "artist": "Maroon 5",
+      "rating": "-1",
+      "id": "0AKejOKlGdiB53QpwAeenO"
+    },
+    {
+      "name": "Say You Won't Let Go",
+      "artist": "James Arthur",
+      "rating": "-1",
+      "id": "5uCax9HTNlzGybIStD3vDh"
+    },
+    {
+      "name": "Lot To Learn",
+      "artist": "Luke Christopher",
+      "rating": "-1",
+      "id": "3TRFq09DUgYj1mug6RRqJW"
+    },
+    {
+      "name": "The Mack",
+      "artist": "Nevada",
+      "rating": "-1",
+      "id": "2fUZ3aMp8amSaV0mp8s6rQ"
+    },
+    {
+      "name": "in my miNd",
+      "artist": "Maty Noyes",
+      "rating": "-1",
+      "id": "2s0Dn2mtvp94wUkyaB8nJc"
+    },
+    {
+      "name": "Trust Nobody",
+      "artist": "Cashmere Cat",
+      "rating": "-1",
+      "id": "3RxPTqpDtIeLBKqInzYjSe"
+    },
+    {
+      "name": "I Got You",
+      "artist": "Bebe Rexha",
+      "rating": "-1",
+      "id": "1FUViuNSldssMIawrOXF2i"
+    },
+    {
+      "name": "By Your Side",
+      "artist": "Jonas Blue",
+      "rating": "-1",
+      "id": "51NBMjiv4t1nUiLC9Bim3G"
+    },
+    {
+      "name": "Somebody Else",
+      "artist": "VÉRITÉ",
+      "rating": "-1",
+      "id": "34i4yxPrHWquuR4kjiivFO"
+    },
+    {
+      "name": "Cold Water",
+      "artist": "Major Lazer",
+      "rating": "-1",
+      "id": "7zsXy7vlHdItvUSH8EwQss"
+    },
+    {
+      "name": "Miss You",
+      "artist": "James Hersey",
+      "rating": "-1",
+      "id": "6giHzoNmL0kwyBZAXGIIc2"
+    },
+    {
+      "name": "Wake Up Where You Are",
+      "artist": "State of Sound",
+      "rating": "-1",
+      "id": "2s76aKBWKShlwPC4xTtEEE"
+    },
+    {
+      "name": "Water Under the Bridge",
+      "artist": "Adele",
+      "rating": "-1",
+      "id": "4vb4mFvYsr2h6enhjJsq9Y"
+    },
+    {
+      "name": "Words",
+      "artist": "Daya",
+      "rating": "-1",
+      "id": "28kwfhqP0K1f6ll0lpHg45"
+    },
+    {
+      "name": "You & Me",
+      "artist": "Marc E. Bassy",
+      "rating": "-1",
+      "id": "52qH79XktzCUPkN0dlRbUs"
+    },
+    {
+      "name": "Capsize",
+      "artist": "FRENSHIP",
+      "rating": "-1",
+      "id": "3GBlLqIYgB8zWaeWDNJzdh"
+    },
+    {
+      "name": "Rockin’",
+      "artist": "The Weeknd",
+      "rating": "-1",
+      "id": "36YCdzT57us0LhDmCYtrNE"
+    },
+    {
+      "name": "On Hold",
+      "artist": "The xx",
+      "rating": "-1",
+      "id": "4w2iAP3X4FkpPb5kjRdIDx"
+    },
+    {
+      "name": "Now and Later",
+      "artist": "Sage The Gemini",
+      "rating": "-1",
+      "id": "43jBqV3j3Xi1g6wO0bhIMd"
+    },
+    {
+      "name": "Come First",
+      "artist": "Terror Jr",
+      "rating": "-1",
+      "id": "5GQBDz6S6KuurT5GXFtfiV"
+    },
+    {
+      "name": "80 Year Old Mooshim",
+      "artist": "DiggingRoots",
+      "rating": "-1",
+      "id": "4DZnjbBAs6lhv7yX3VaaEp"
+    },
+    {
+      "name": "Going Back",
+      "artist": "DiggingRoots",
+      "rating": "-1",
+      "id": "5lHwVIr7MMxjtujQpugWBX"
+    },
+    {
+      "name": "I Feel It Coming",
+      "artist": "The Weeknd",
+      "rating": "-1",
+      "id": "0VeYT2aD9t65JgofFZGpKl"
+    },
+    {
+      "name": "Black Beatles",
+      "artist": "Rae Sremmurd",
+      "rating": "-1",
+      "id": "21xJVN5wEbJogczYxfZhqR"
+    },
+    {
+      "name": "Move Your Body - Alan Walker Remix",
+      "artist": "Sia",
+      "rating": "-1",
+      "id": "6LUOMjoORvAkdhBYvESO46"
+    },
+    {
+      "name": "Starboy",
+      "artist": "The Weeknd",
+      "rating": "-1",
+      "id": "7lQqaqZu0vjxzpdATOIsDt"
+    },
+    {
+      "name": "Rockabye (feat. Sean Paul & Anne-Marie)",
+      "artist": "Clean Bandit",
+      "rating": "-1",
+      "id": "5knuzwU65gJK7IF5yJsuaW"
+    },
+    {
+      "name": "Call On Me - Ryan Riback Remix",
+      "artist": "Starley",
+      "rating": "-1",
+      "id": "6tFFZ3OYoHbTolG08QsuBa"
+    },
+    {
+      "name": "Nervous (The Ooh Song) - Mark McCabe Remix",
+      "artist": "Gavin James",
+      "rating": "-1",
+      "id": "0L9lXMXddmoBbBUeF7A9An"
+    },
+    {
+      "name": "Solo Dance",
+      "artist": "Martin Jensen",
+      "rating": "-1",
+      "id": "1H3OGagCLSPueat8Hfg6ua"
+    },
+    {
+      "name": "What Do You Love",
+      "artist": "Seeb",
+      "rating": "-1",
+      "id": "0h4FK0CnlZ3oJnZ6quEk1P"
+    },
+    {
+      "name": "Let Me Love You",
+      "artist": "DJ Snake",
+      "rating": "-1",
+      "id": "0lYBSQXN6rCTvUZvg9S0lU"
+    },
+    {
+      "name": "All Night",
+      "artist": "The Vamps",
+      "rating": "-1",
+      "id": "1yNyoWWWikbLhwIGWjZuDW"
+    },
+    {
+      "name": "Closer",
+      "artist": "The Chainsmokers",
+      "rating": "-1",
+      "id": "7BKLCZ1jbUBVqRi2FVlTVw"
+    },
+    {
+      "name": "Rockin’",
+      "artist": "The Weeknd",
+      "rating": "-1",
+      "id": "5HR4CYT5nPpFy8m9wJQgrr"
+    },
+    {
+      "name": "Starving",
+      "artist": "Hailee Steinfeld",
+      "rating": "-1",
+      "id": "2zDt2TfQbxiSPjTVJTgbwz"
+    },
+    {
+      "name": "Beast",
+      "artist": "Tungevaag & Raaban",
+      "rating": "-1",
+      "id": "6ZbiaHwI9x7CIxYGOEmXxd"
+    },
+    {
+      "name": "Starboy - Kygo Remix",
+      "artist": "The Weeknd",
+      "rating": "-1",
+      "id": "6L778PA16SuyYvFhqnMndY"
+    },
+    {
+      "name": "I Feel It Coming",
+      "artist": "The Weeknd",
+      "rating": "-1",
+      "id": "3dhjNA0jGA8vHBQ1VdD6vV"
+    },
+    {
+      "name": "The Greatest",
+      "artist": "Sia",
+      "rating": "-1",
+      "id": "3XIIOCu6B8PuGq5j61asEM"
+    },
+    {
+      "name": "Cold Water (feat. Justin Bieber & MØ)",
+      "artist": "Major Lazer",
+      "rating": "-1",
+      "id": "6DNtNfH8hXkqOX1sjqmI7p"
+    },
+    {
+      "name": "Sexual",
+      "artist": "NEIKED",
+      "rating": "-1",
+      "id": "24n5tZm9XnaoNAkcW5NC5B"
+    },
+    {
+      "name": "In the Name of Love",
+      "artist": "Martin Garrix",
+      "rating": "-1",
+      "id": "23L5CiUhw2jV1OIMwthR3S"
+    },
+    {
+      "name": "Shout Out to My Ex",
+      "artist": "Little Mix",
+      "rating": "-1",
+      "id": "6wZ8kvKP9d1MKlNFTMZrBK"
+    },
+    {
+      "name": "My Way",
+      "artist": "Calvin Harris",
+      "rating": "-1",
+      "id": "1vvNmPOiUuyCbgWmtc6yfm"
+    },
+    {
+      "name": "All We Know",
+      "artist": "The Chainsmokers",
+      "rating": "-1",
+      "id": "2rizacJSyD9S1IQUxUxnsK"
+    },
+    {
+      "name": "Alive",
+      "artist": "Madden",
+      "rating": "-1",
+      "id": "7J2EJ4QMpGUbB2H3SYYYtU"
+    },
+    {
+      "name": "Ain't My Fault",
+      "artist": "Zara Larsson",
+      "rating": "-1",
+      "id": "4nA0biSjtvOL41Hd9MBXqR"
+    },
+    {
+      "name": "Mercy",
+      "artist": "Shawn Mendes",
+      "rating": "-1",
+      "id": "4lYTkvMkcNRj9uoSr8Zpws"
+    },
+    {
+      "name": "This Town",
+      "artist": "Niall Horan",
+      "rating": "-1",
+      "id": "5nA67Y0XX9JipZwYxX7Gl7"
+    },
+    {
+      "name": "Perfect Strangers",
+      "artist": "Jonas Blue",
+      "rating": "-1",
+      "id": "1CUVN2kn7mW5FjkqXTR2W1"
+    },
+    {
+      "name": "Side To Side",
+      "artist": "Ariana Grande",
+      "rating": "-1",
+      "id": "4pLwZjInHj3SimIyN9SnOz"
+    },
+    {
+      "name": "24K Magic",
+      "artist": "Bruno Mars",
+      "rating": "-1",
+      "id": "2gFvRmQiWg9fN9i74Q0aiw"
+    },
+    {
+      "name": "Millionaire - Alan Walker Remix",
+      "artist": "Digital Farm Animals",
+      "rating": "-1",
+      "id": "5HzbxweVAtisCrpoOF11qt"
+    },
+    {
+      "name": "Dynamite (feat. Pretty Sister)",
+      "artist": "Nause",
+      "rating": "-1",
+      "id": "2Ae5awwKvQpTBKQHr1TYCg"
+    },
+    {
+      "name": "Inside the Lines",
+      "artist": "Mike Perry",
+      "rating": "-1",
+      "id": "5GzExVEv1JDsYyPFjMdXsA"
+    },
+    {
+      "name": "Alarm",
+      "artist": "Anne-Marie",
+      "rating": "-1",
+      "id": "0OwX5aROoW1Iip8FV51Efg"
+    },
+    {
+      "name": "We Don't Talk Anymore (feat. Selena Gomez)",
+      "artist": "Charlie Puth",
+      "rating": "-1",
+      "id": "06KyNuuMOX1ROXRhj787tj"
+    },
+    {
+      "name": "Aqualung",
+      "artist": "Jethro Tull",
+      "rating": "4",
+      "id": "5UuikgHTxSRFRnC0zXx10i",
+      "one": "true"
+    },
+    {
+      "name": "Circle of Light",
+      "artist": "Johnny Clegg",
+      "rating": "-1",
+      "id": "5q5PhDl4HQyG3zXqv4HAWE",
+      "one": "true"
+    },
+    {
+      "name": "Digging for Some Words",
+      "artist": "Johnny Clegg",
+      "rating": "4",
+      "id": "5rQ2pMP2432li0ugxRa73t",
+      "one": "true"
+    },
+    {
+      "name": "Great Heart",
+      "artist": "Johnny Clegg",
+      "rating": "-1",
+      "id": "6skhKL3IMQYbsn7qrgMcTX",
+      "two": "true"
+    },
+    {
+      "name": "Locomotive Breath",
+      "artist": "Jethro Tull",
+      "rating": "-1",
+      "id": "0MYNeFsKpzBHwrJGfWZysV",
+      "two": "true"
+    },
+    {
+      "name": "Rebel",
+      "artist": "DiggingRoots",
+      "rating": "-1",
+      "id": "36NATrgCaO7b1r2aSXFyBY",
+      "two": "true"
+    },
+    {
+      "name": "Wake Up and Rise",
+      "artist": "DiggingRoots",
+      "rating": "-1",
+      "id": "659JGyHxV3AjKJIbO00aED",
+      "one": "true",
+      "two": "true"
+    },
+    {
+      "name": "Why Don’t you Do Right",
+      "artist": "DiggingRoots",
+      "rating": "-1",
+      "id": "6MKeeFKQeA0DNb5eulHDp4",
+      "three": "true"
+    },
+    {
+      "name": "Your Time Will Come",
+      "artist": "Johnny Clegg",
+      "rating": "5",
+      "id": "20R0uJu7lGpqlMgTQ8SyoV",
+      "one": "true",
+      "two": "true",
+      "three": "true"
+    },
+    {
+      "name": "Wind Up",
+      "artist": "Jethro Tull",
+      "rating": "-1",
+      "id": "35KrMfAdlfZWmoIOlwO74m",
+      "three": "true"
+    },
+    {
+      "name": "Don't Be So Shy - Filatov & Karas Remix",
+      "artist": "Imany",
+      "rating": "-1",
+      "id": "5Sod5qQTp8Nj4n5dTjttQG"
+    },
+    {
+      "name": "Don't Wanna Know",
+      "artist": "Maroon 5",
+      "rating": "-1",
+      "id": "5MFzQMkrl1FOOng9tq6R9r"
+    },
+    {
+      "name": "Love On Me",
+      "artist": "Galantis",
+      "rating": "-1",
+      "id": "2MHCiOohBZEQuLgDTPvSzF"
+    },
+    {
+      "name": "Arigato",
+      "artist": "Julie Bergan",
+      "rating": "-1",
+      "id": "4XuK9jJP3mpYBq5qf68vfF"
+    },
+    {
+      "name": "Say You Won't Let Go",
+      "artist": "James Arthur",
+      "rating": "-1",
+      "id": "1Pw5C4N6Fn5E4mGCxmbbVa"
+    },
+    {
+      "name": "Hymn For The Weekend - Seeb Remix",
+      "artist": "Coldplay",
+      "rating": "-1",
+      "id": "6s3GEN8wK0OMzzzZbXj0fu"
+    },
+    {
+      "name": "You & Me",
+      "artist": "Marc E. Bassy",
+      "rating": "-1",
+      "id": "1bb2jMLU78mIQJ2r1GB7Rs"
+    },
+    {
+      "name": "Fake Love",
+      "artist": "Drake",
+      "rating": "-1",
+      "id": "2Vr6FETnu1h4ZoeU0f5XOS"
+    },
+    {
+      "name": "Cool Girl",
+      "artist": "Tove Lo",
+      "rating": "-1",
+      "id": "5LWVXN39UpNyhkYnBvDfyq"
+    },
+    {
+      "name": "Capsize",
+      "artist": "FRENSHIP",
+      "rating": "-1",
+      "id": "4qH3RkbFgzxYyXUD8YC8kr"
+    },
+    {
+      "name": "I Would Like",
+      "artist": "Zara Larsson",
+      "rating": "-1",
+      "id": "0HVj61S4pQJdQhgZP61G65"
+    },
+    {
+      "name": "Treat You Better",
+      "artist": "Shawn Mendes",
+      "rating": "-1",
+      "id": "53B2XmmjJ9rriW1qciMBeX"
+    },
+    {
+      "name": "Hurts So Good",
+      "artist": "Astrid S",
+      "rating": "-1",
+      "id": "4rKHs4JtVYxsYen2eHIW6b"
+    },
+    {
+      "name": "Let Me Hold You (Turn Me On)",
+      "artist": "Dante Klein",
+      "rating": "-1",
+      "id": "0lmdsH1MIoLsMymnNpd6HU"
+    },
+    {
+      "name": "Juju On That Beat (TZ Anthem)",
+      "artist": "Zay Hilfigerrr",
+      "rating": "-1",
+      "id": "1lItf5ZXJc1by9SbPeljFd"
+    },
+    {
+      "name": "Black Beatles",
+      "artist": "Rae Sremmurd",
+      "rating": "-1",
+      "id": "6fujklziTHa8uoM5OQSfIo"
+    },
+    {
+      "name": "Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",
+      "artist": "Lil Wayne",
+      "rating": "-1",
+      "id": "4dASQiO1Eoo3RJvt74FtXB"
+    },
+    {
+      "name": "Sidewalks",
+      "artist": "The Weeknd",
+      "rating": "1",
+      "id": "4h90qkbnW1Qq6pBhoPvwko"
+    },
+    {
+      "name": "OOOUUU",
+      "artist": "Young M.a.",
+      "rating": "-1",
+      "id": "0D21XvHcVsIvJM6FcGY2BT"
+    },
+    {
+      "name": "Chill Bill",
+      "artist": "Rob $tone",
+      "rating": "-1",
+      "id": "5uDASfU19gDxSjW8cnCaBp"
+    },
+    {
+      "name": "All I Know",
+      "artist": "The Weeknd",
+      "rating": "-1",
+      "id": "0NWqNXBJTpXbkI5rPWNy3p"
+    },
+    {
+      "name": "No Role Modelz",
+      "artist": "J. Cole",
+      "rating": "-1",
+      "id": "62vpWI1CHwFy7tMIcSStl8"
+    },
+    {
+      "name": "X (feat. Future)",
+      "artist": "21 Savage",
+      "rating": "-1",
+      "id": "6fwdbPMwP1zVStm8FybmkO"
+    },
+    {
+      "name": "Caroline",
+      "artist": "Aminé",
+      "rating": "-1",
+      "id": "5GFDrUTLGJix84sNhjCG0g"
+    },
+    {
+      "name": "No Shopping",
+      "artist": "French Montana",
+      "rating": "-1",
+      "id": "0Di26AbdtizzHkFstPyt7A"
+    },
+    {
+      "name": "Sneakin’",
+      "artist": "Drake",
+      "rating": "-1",
+      "id": "4ckuS4Nj4FZ7i3Def3Br8W"
+    },
+    {
+      "name": "Fake Love",
+      "artist": "Drake",
+      "rating": "4",
+      "id": "6NMNgWgEAzde5M8U3lc6FN",
+      "drake": "true"
+    },
+    {
+      "name": "What They Want",
+      "artist": "Russ",
+      "rating": "-1",
+      "id": "0AjrdcjDF0nrsoTzOFdXUv",
+      "russ": "true"
+    },
+    {
+      "name": "Tiimmy Turner",
+      "artist": "Desiigner",
+      "rating": "-1",
+      "id": "3NJG6vMH1ZsectZkocMEm0"
+    },
+    {
+      "name": "Pick Up The Phone (feat. Quavo)",
+      "artist": "Young Thug",
+      "rating": "-1",
+      "id": "5NAMZI9lVhxNa6AZp3iQVH"
+    },
+    {
+      "name": "Cut It (feat. Young Dolph)",
+      "artist": "O.T. Genasis",
+      "rating": "-1",
+      "id": "376KnY4TrgBITxjlnbnmIy"
+    },
+    {
+      "name": "Broccoli (feat. Lil Yachty)",
+      "artist": "D.R.A.M.",
+      "rating": "-1",
+      "id": "7yyRTcZmCiyzzJlNzGC9Ol"
+    },
+    {
+      "name": "Low Life",
+      "artist": "Future",
+      "rating": "-1",
+      "id": "71SDPonZOsIKNtqnaX8LXj"
+    },
+    {
+      "name": "All The Way Up",
+      "artist": "Fat Joe",
+      "rating": "-1",
+      "id": "61QSuw5VlC0LTS8WMO356g"
+    },
+    {
+      "name": "Champions",
+      "artist": "Kanye West",
+      "rating": "-1",
+      "id": "2nBI3iWLhupR7LyAJ5GGkE"
+    },
+    {
+      "name": "Two Birds, One Stone",
+      "artist": "Drake",
+      "rating": "-1",
+      "id": "3m62bJJXGyQKdR9XyRocnl"
+    },
+    {
+      "name": "Litty (feat. Tory Lanez)",
+      "artist": "Meek Mill",
+      "rating": "-1",
+      "id": "5J5PXmMdQ2nh1lZOal8KmK"
+    },
+    {
+      "name": "Wanna Know Remix (feat. Drake)",
+      "artist": "Dave",
+      "rating": "-1",
+      "id": "7bPLo5Fv7h15E2fW3g1mVQ"
+    },
+    {
+      "name": "Back To Back",
+      "artist": "Drake",
+      "rating": "-1",
+      "id": "5lFDtgWsjRJu8fPOAyJIAK"
+    },
+    {
+      "name": "Really Really",
+      "artist": "Kevin Gates",
+      "rating": "-1",
+      "id": "10I3CmmwT0BkOVhduDy53o"
+    },
+    {
+      "name": "THat Part",
+      "artist": "ScHoolboy Q",
+      "rating": "-1",
+      "id": "2yJ9GVCLMmzBBfQAnfzlwr"
+    },
+    {
+      "name": "Erbody But Me",
+      "artist": "Tech N9ne",
+      "rating": "-1",
+      "id": "4vZPGcOnzydjpV7LXJWI1A"
+    },
+    {
+      "name": "Bounce Back",
+      "artist": "Big Sean",
+      "rating": "-1",
+      "id": "206uaQyzb8kOiZ7rHw9wCn"
+    },
+    {
+      "name": "Louis V",
+      "artist": "Night Lovell",
+      "rating": "-1",
+      "id": "1ErhPSE3wTbXAaumUfLSYj"
+    },
+    {
+      "name": "Connections",
+      "artist": "CJ Flemings",
+      "rating": "-1",
+      "id": "3ZjvGZJwUcmdHPrUEwNpTA"
+    },
+    {
+      "name": "Stamina",
+      "artist": "Big Lean",
+      "rating": "-1",
+      "id": "5dzGnZHDMjvZlLIBfFtbtM"
+    },
+    {
+      "name": "Used to This",
+      "artist": "Future",
+      "rating": "-1",
+      "id": "3V8sM5OOG6YfDuDLa2IIYJ"
+    },
+    {
+      "name": "Money Longer",
+      "artist": "Lil Uzi Vert",
+      "rating": "-1",
+      "id": "0B8QzDH7YWih85V5SEMnyJ"
+    },
+    {
+      "name": "Crazy Brazy",
+      "artist": "A$AP Mob",
+      "rating": "-1",
+      "id": "59e7E2LMPZ2bhW5G6aCwX8"
+    },
+    {
+      "name": "In Your Hands",
+      "artist": "Joshua Radin",
+      "rating": "-1",
+      "id": "6lcLdIKqaiNLqFWZaapqev",
+      "joshua": "true"
+    },
+    {
+      "name": "Setting Fires",
+      "artist": "The Chainsmokers",
+      "rating": "-1",
+      "id": "2PC9Tl8SWVO2yhDDtJcrAi"
+    },
+    {
+      "name": "Steady 1234 (feat. Jasmine Thompson & Skizzy Mars)",
+      "artist": "Vice",
+      "rating": "-1",
+      "id": "40UroIGvsMPLPBYwH8rMNA"
+    },
+    {
+      "name": "Cutty",
+      "artist": "Quincy Got Rich",
+      "rating": "-1",
+      "id": "71LlYgno3owkHlrPXRXvlB"
+    },
+    {
+      "name": "Judge Me",
+      "artist": "Spotty Josif",
+      "rating": "-1",
+      "id": "03FnuWcYGSQrDSUNhJb9WB"
+    },
+    {
+      "name": "Rebellion",
+      "artist": "EMP",
+      "rating": "-1",
+      "id": "3ESey3ziSQiAHPIkmVzrUX"
+    },
+    {
+      "name": "Steady Now (Karman Remix) feat. Tasha the Amazon",
+      "artist": "Cubby",
+      "rating": "-1",
+      "id": "3uaV9U9KpILEBIXn3tYEFP"
+    },
+    {
+      "name": "NoToryUs",
+      "artist": "Wasiu",
+      "rating": "-1",
+      "id": "37pBohvOz4Rk7GAxDGfZ1e"
+    },
+    {
+      "name": "Consuela",
+      "artist": "Belly",
+      "rating": "-1",
+      "id": "7snrmC4Lz2skHvzYWKxKJF"
+    },
+    {
+      "name": "Push It (feat. Remy Ma & Quavo) - Remix",
+      "artist": "O.T. Genasis",
+      "rating": "-1",
+      "id": "1J7px8UR9cgEeMiSJY3ixr"
+    },
+    {
+      "name": "Bone Marrow",
+      "artist": "G-Eazy",
+      "rating": "-1",
+      "id": "4XnjPTtMivM4TQc1Y167ao"
+    },
+    {
+      "name": "Magic",
+      "artist": "Clyde Kelly",
+      "rating": "-1",
+      "id": "3qN6aspYtIpm2dNYnM06kL"
+    },
+    {
+      "name": "Cash Machine",
+      "artist": "D.R.A.M.",
+      "rating": "-1",
+      "id": "6GG2tkV9PRYGN5rniXPFXZ"
+    },
+    {
+      "name": "Watch It Burn",
+      "artist": "Tasha The Amazon",
+      "rating": "-1",
+      "id": "6HZDUA9whFCfpttqjlPldf"
+    },
+    {
+      "name": "On The Regular",
+      "artist": "Meek Mill",
+      "rating": "-1",
+      "id": "0bLwBXrMd3z96utPHeuQDK"
+    },
+    {
+      "name": "Spirit Cold",
+      "artist": "Tall Heights",
+      "rating": "-1",
+      "id": "1vG6jMgSoqT3zG9tuDrL2E"
+    },
+    {
+      "name": "Revolution (feat. First Aid Kit)",
+      "artist": "Van William",
+      "rating": "-1",
+      "id": "4J0bnxBAoscCdN62zHuHi7"
+    },
+    {
+      "name": "Burden",
+      "artist": "Foy Vance",
+      "rating": "-1",
+      "id": "5skLVBXJf3VbnauZUI29pK"
+    },
+    {
+      "name": "It'll Work Itself Out",
+      "artist": "Donovan Woods",
+      "rating": "-1",
+      "id": "2u6SXgdzFNTQLc4LcSi3Vd"
+    },
+    {
+      "name": "Hide",
+      "artist": "Desiree Dawson",
+      "rating": "-1",
+      "id": "0SKt8TBUIBnRX5G8dwZscX"
+    },
+    {
+      "name": "The Spark",
+      "artist": "Joshua Hyslop",
+      "rating": "-1",
+      "id": "5D906SVx3dBcGiaOWpyOgm"
+    },
+    {
+      "name": "Bones",
+      "artist": "Tim Moxam",
+      "rating": "-1",
+      "id": "4eIZvqw0dMjuolb9b1iM7H"
+    },
+    {
+      "name": "You Keep Hanging On",
+      "artist": "Joseph Arthur",
+      "rating": "-1",
+      "id": "4kufjk1kBdvBQp432ViqEk"
+    },
+    {
+      "name": "Rain Clouds",
+      "artist": "The Arcadian Wild",
+      "rating": "-1",
+      "id": "2hwNIWCoQoTafpClHSRwQn"
+    },
+    {
+      "name": "I Wish I Was",
+      "artist": "The Avett Brothers",
+      "rating": "-1",
+      "id": "1nMlHxWuPc5P9Y5nGvenlj"
+    },
+    {
+      "name": "Stay Here Tonight",
+      "artist": "The Jepettos",
+      "rating": "-1",
+      "id": "08KISuyZba7gnj60sB4Jec"
+    },
+    {
+      "name": "Alright, Alright",
+      "artist": "Havelin",
+      "rating": "-1",
+      "id": "5vOO8n1oIkDbL9jMlE8wJR"
+    },
+    {
+      "name": "Gonna Get Good",
+      "artist": "The Once",
+      "rating": "-1",
+      "id": "2OJsO8lKbN6NgxmYaRH1uA"
+    },
+    {
+      "name": "Orlando",
+      "artist": "Alejandra Ribera",
+      "rating": "-1",
+      "id": "1UVWjKIdyPFVFRxvFubgnw"
+    },
+    {
+      "name": "Take Me Down",
+      "artist": "Gary Clark Jr.",
+      "rating": "-1",
+      "id": "5NFV5HquTXQXR3q384YMhc"
+    },
+    {
+      "name": "Paper Planes",
+      "artist": "East of Avenue",
+      "rating": "-1",
+      "id": "76M8wcCu97OMOQfcdxHvbl"
+    },
+    {
+      "name": "Golden (feat. St. South)",
+      "artist": "Mt. Wolf",
+      "rating": "-1",
+      "id": "2BTZ3gJLZyditWBnsoK0eH"
+    },
+    {
+      "name": "Walk With You",
+      "artist": "The Franklin Electric",
+      "rating": "-1",
+      "id": "7xvE0obwGKwg2jQAcPjim6"
+    },
+    {
+      "name": "Rivers",
+      "artist": "The Tallest Man On Earth",
+      "rating": "-1",
+      "id": "07ZkpHysDtnBHQKbEOBZ2L"
+    },
+    {
+      "name": "Home Is Just a State of Mind",
+      "artist": "Rod Ladgrove",
+      "rating": "-1",
+      "id": "2DSAJF477Cf5OdKucIiCYG"
+    },
+    {
+      "name": "Starboy",
+      "artist": "The Weeknd",
+      "rating": "5",
+      "id": "7MXVkk9YMctZqd1Srtv4MB",
+      "bass": "true"
+    },
+    {
+      "name": "Catch & Release",
+      "artist": "Matt Simons",
+      "rating": "-1",
+      "id": "6ZKHrMxH0WE7viltTp9JcJ"
+    },
+    {
+      "name": "Anywhere",
+      "artist": "Passenger",
+      "rating": "-1",
+      "id": "09DFAq4rCFtDk6Agetux0y"
+    },
+    {
+      "name": "The Warden & The Hangman",
+      "artist": "Matt Holubowski",
+      "rating": "-1",
+      "id": "30jWaXU5ZvLEmu62kt6GJD"
+    },
+    {
+      "name": "No One Told Me",
+      "artist": "Henry Jamison",
+      "rating": "-1",
+      "id": "2boCNHzAmKQSuVEwB4bO7U"
+    },
+    {
+      "name": "Comes a Time",
+      "artist": "Matthew Barber",
+      "rating": "-1",
+      "id": "1zEawfGBuWnQSKVTCmvtQg"
+    },
+    {
+      "name": "Peace Trail",
+      "artist": "Neil Young",
+      "rating": "-1",
+      "id": "0HdwGCZ8nfnaJc6tLdc1o9"
+    },
+    {
+      "name": "The Stranger",
+      "artist": "Gord Downie",
+      "rating": "-1",
+      "id": "7CStTb4cJcfxi3o7t6Rq4b"
+    },
+    {
+      "name": "Relatively Permanent",
+      "artist": "Chris Staples",
+      "rating": "-1",
+      "id": "24mpnAEyKnRzpedDxEyvcN"
+    },
+    {
+      "name": "Oceans",
+      "artist": "Seafret",
+      "rating": "-1",
+      "id": "5eXnC2B5RU5fAhfwvV2ABD"
+    },
+    {
+      "name": "Up We Go - Acoustic",
+      "artist": "LIGHTS",
+      "rating": "-1",
+      "id": "26mrazcyEpgnX3KRYTP38v"
+    },
+    {
+      "name": "WALLS",
+      "artist": "Kings of Leon",
+      "rating": "-1",
+      "id": "0MYplMrSTCJ6WnTNqAOd1P"
+    },
+    {
+      "name": "Hang With Me",
+      "artist": "Dan Mangan",
+      "rating": "-1",
+      "id": "7L5mjcGFhAy5BwHrJhZ6K6"
+    },
+    {
+      "name": "We Don't Know",
+      "artist": "The Strumbellas",
+      "rating": "-1",
+      "id": "1W7Pqllthmsm4JropRBVFp"
+    },
+    {
+      "name": "Sycomore",
+      "artist": "Soul & Sister",
+      "rating": "-1",
+      "id": "07jizrAGrWvIrDrZezx0tP"
+    },
+    {
+      "name": "On the Nights You Stay Home",
+      "artist": "Donovan Woods",
+      "rating": "-1",
+      "id": "23TQmCeTd3zZQoCKyO7mEh"
+    },
+    {
+      "name": "Mama Said",
+      "artist": "Cat Clyde",
+      "rating": "-1",
+      "id": "1G7COoZddkxeS4J9wp3aWM"
+    },
+    {
+      "name": "Into Her Future",
+      "artist": "Michelle McAdorey",
+      "rating": "-1",
+      "id": "3dW3mQyUZnqWwJa8hWuUIJ"
+    },
+    {
+      "name": "The Only Place To Be",
+      "artist": "Gord Downie",
+      "rating": "-1",
+      "id": "6VDEVpxX8o05XjD3UWBCPx"
+    },
+    {
+      "name": "The Great Ascension",
+      "artist": "Justin Rutledge",
+      "rating": "-1",
+      "id": "6S94tjVbHkJrU5hh8qCasN"
+    },
+    {
+      "name": "Sometimes There's Wine",
+      "artist": "The Barr Brothers",
+      "rating": "-1",
+      "id": "724BWVLGrQmY9tyMqtT8ZD"
+    },
+    {
+      "name": "Make Me (Cry)",
+      "artist": "Noah Cyrus",
+      "rating": "-1",
+      "id": "2BrzlUj1u1CtvaJDGIKpsP"
+    },
+    {
+      "name": "Shed A Light (feat. Cheat Codes)",
+      "artist": "Robin Schulz",
+      "rating": "-1",
+      "id": "1cG0umU5TKStygKsPFZ9pY"
+    },
+    {
+      "name": "Still Cold / Pathway Private",
+      "artist": "Night Lovell",
+      "rating": "-1",
+      "id": "0WKXWF3QqHq6R6LqiF57vu"
+    },
+    {
+      "name": "Hear Me Now",
+      "artist": "Alok",
+      "rating": "-1",
+      "id": "1a5Yu5L18qNxVhXx38njON"
+    },
+    {
+      "name": "Mama is a Revolutionary",
+      "artist": "DiggingRoots",
+      "rating": "-1",
+      "id": "0GRkmZmPQXAsfuJvUwACy0",
+      "three": "true"
+    }
+  ]
+}

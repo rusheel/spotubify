@@ -1,0 +1,145 @@
+
+@import url(//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css);
+
+fieldset, label { margin: 0; padding: 0; } body{ margin: 10px; }h1 { font-size: 1.5em; }
+
+body {
+    background-color: black;
+    color: white;
+}
+
+li,a {
+  color: lightgreen;
+}
+
+.youtube {
+  margin: -20px;
+}
+.remove {
+  cursor: pointer;
+}
+
+.titles{
+  color: yellow;
+}
+.btn {
+  background-color: #89c403;
+  border-radius: 25px;
+  border: 1px solid #74b807;
+  font-family: Verdana;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 15px 15px;
+  text-shadow: 0px 0px 0px #528009;
+  text-align: center;
+  margin: auto;
+  display: block;
+  margin-left: 35px;
+}
+
+.btn:hover {
+		background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #77a809), color-stop(1, #89c403));
+		background-color:#77a899;
+	}
+
+	.btn:active {
+		position:relative;
+	}
+
+  .tag-add {
+    background-color: #89c403;
+    border-radius: 15px;
+    border: 1px solid #74b807;
+    font-family: Verdana;
+    font-size: 10px;
+    font-weight: bold;
+    padding: 10px 10px;
+    text-shadow: 0px 0px 0px #528009;
+    text-align: center;
+    margin: auto;
+    display: block;
+    margin-left: 35px;
+    margin-bottom: 10px;
+  }
+
+  .tag-add:hover {
+  		background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #77a809), color-stop(1, #89c403));
+  		background-color:#77a899;
+  	}
+
+  	.tag-add:active {
+  		position:relative;
+  	}
+
+
+#launch {
+  width: 110%;
+  height: auto;
+  position: relative;
+  top: 0;
+  bottom: 0;
+  margin-bottom: auto;
+  margin-top: 0px;
+  margin-left: -30px;
+}
+
+#navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    margin-left: -40px;
+}
+
+#navbar a {
+    text-decoration: none;
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+#navbar a:hover {
+    background-color: #111;
+}
+
+.song-rater {
+  border: none;
+  float: left;
+}
+
+.song-rater > input { display: none; }
+.song-rater > label:before {
+  margin: 4px;
+  font-size: 1.35em;
+  font-family: FontAwesome;
+  display: inline-block;
+  content: "\f005";
+}
+
+.song-rater > label {
+  color: white;
+ float: right;
+}
+
+.tag-add {
+  margin-top: 10px;
+  margin-left: 0;
+
+}
+.song-rater > input:checked ~ label,
+.song-rater:not(:checked) > label:hover,
+.song-rater:not(:checked) > label:hover ~ label { color: #FFFF00;  }
+.song-rater > input:checked + label:hover,
+.song-rater > input:checked ~ label:hover,
+.song-rater > input:checked ~ label:hover ~ label { color: #FFFF00;  }
+
+#login {
+	display: none;
+}
+
+#loggedin {
+	display: none;
+}
